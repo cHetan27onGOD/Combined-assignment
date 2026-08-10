@@ -8,7 +8,7 @@ Projects are organized into folders based on their complexity.
 
 | Difficulty | Project | Description |
 |------------|---------|-------------|
-| **Easy** | **[The Pokémon](./easy/The-Pokémon)** | Simple card or gallery layout |
+| **Easy** | **[The Pokémon](.Pokémon/easy/The-)** | Simple card or gallery layout |
 | **Easy** | **[BG Color Changer](./easy/bg-color-changer)** | UI for background manipulation |
 | **Easy** | **[Quiz App](./easy/quiz-app)** | Quiz interface layout |
 | **Medium** | **[Form Builder](./medium/Form-Builder)** | Complex form layout and styling |
